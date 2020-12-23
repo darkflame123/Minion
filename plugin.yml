@@ -2,7 +2,7 @@ name: Minion
 author: alvin0319
 main: Minion\Loader
 version: 1.0.0
-api: 4.0.0
+api: 3.14.0
 description: MINION!!!!!!!!!!!!!
 
 commands:
